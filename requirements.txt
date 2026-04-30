@@ -1,0 +1,8 @@
+Pandas 2.2
+Python 3.12.13
+Numbpy 2.0.02
+Matplotlib 3.10.0
+Seaborn 0.13.2
+NLTK 3.9.1
+Scikit-learn 1.6.1
+Tensorflow 2.20.0
